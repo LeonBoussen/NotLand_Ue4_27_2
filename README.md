@@ -31,7 +31,9 @@ Damon:
 
 ## Friendly Animals door:Damon
 ### De friendly animals kunnen lopen naar een willekeurige locatie, hebben stamina dus ze kunnen moe raken, ze kunnen slapen en ze kunnen wegrennen van de speler.
+
 ### Voor de Random roam gaat hij gewoon naar een willekeurige locatie binnen de aangegeven radius. En wanneer het dier damage krijgt, verdubbeld hij de loop snelheid en speelt hij een ren animatie af. Na een willekeurige afstand stopt hij met rennen en gaat hij weer rondlopen.
+![](Code%20SnipBits/Roam.png)
 ### De stamina. wanneer het spel start gaat er elke seconde een beetje stamina af van de max stamina. Als de max stamina 0 raakt speelt hij een rust animatie en krijgt hij stamina erbij. Als hij in deze animatie zit kan hij niet bewegen. Wanneer hij genoeg heeft staat hij weer op en gaat het process opnieuw.
 ### Het dier heeft ook een decide action script. Dat script kijkt naar wat er gebeurt in het spel en beslist dan wat het dier gaat doen.
 
