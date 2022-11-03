@@ -29,7 +29,7 @@ Damon:
 * Hostile Animals
 * Animal Animations
 
-## Friendly Animals door:Damon
+## Friendly Animals door: Damon
 ### De friendly animals kunnen lopen naar een willekeurige locatie, hebben stamina dus ze kunnen moe raken, ze kunnen slapen en ze kunnen wegrennen van de speler.
 
 ### Voor de Random roam gaat hij gewoon naar een willekeurige locatie binnen de aangegeven radius. En wanneer het dier damage krijgt, verdubbeld hij de loop snelheid en speelt hij een ren animatie af. Na een willekeurige afstand stopt hij met rennen en gaat hij weer rondlopen.
@@ -39,7 +39,7 @@ Damon:
 ### Het dier heeft ook een decide action script. Dat script kijkt naar wat er gebeurt in het spel en beslist dan wat het dier gaat doen.
 ![](Code%20SnipBits/Decide.png)
 
-## Hostile Animals door:Damon
+## Hostile Animals door: Damon
 ### De Hostile animal werk met pawn sensing. Als de spelen in het visie van het dier komt, loopt het dier op de speler af om aan te vallen. Als het dier tegen de speler aan staat speelt hij een animatie af en doet hij damage.
 ![](Code%20SnipBits/Attack.png)
 
