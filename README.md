@@ -43,7 +43,7 @@ Damon:
 ### De Hostile animal werk met pawn sensing. Als de spelen in het visie van het dier komt, loopt het dier op de speler af om aan te vallen. Als het dier tegen de speler aan staat speelt hij een animatie af en doet hij damage.
 ![](Code%20SnipBits/Attack.png)
 
-## Animations
+## Animations door: Damon
 ### voor elk dier zitten aparte animaties in voor lopen, rennen, rusten en aanvallen. Dit heb ik gedaan met een Animation blueprint en een Blendspace. In de blendspace staan alle animaties ingesteld dus als het dier een bepaalde snelheid haalt verandert de animatie naar de juist behorende animatie.
 ![](Code%20SnipBits/BS.png)
 ![](Code%20SnipBits/Anim.png)
